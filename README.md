@@ -8,29 +8,47 @@
 
 ---
 
-### GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Nithish-1622&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nithish-1622&layout=compact&langs_count=8&theme=radical"/>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nithish-1622&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
-</div>
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-contributions-api.deno.dev/Nithish-1622.svg" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=nithish-1622&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=nithish-1622&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nithish-1622&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithish-1622&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nithish-1622/nithish-1622/main/dist/github-contribution-grid-snake.svg" />
+</p>
+
+## 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nithish-1622/nithish-1622/main/profile-3d-contrib/profile-night-green.svg?v=1" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you find my work helpful, consider giving a star to my repositories!
+</p>
 ---
 
 <h2>🔥 Tech Arsenal</h2>
