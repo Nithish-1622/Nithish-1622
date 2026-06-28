@@ -35,13 +35,13 @@
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nithish-1622/nithish-1622/main/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nithish-1622/nithish-1622/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 3D Contribution Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nithish-1622/nithish-1622/main/profile-3d-contrib/profile-night-green.svg?v=1" />
+  <img src="https://raw.githubusercontent.com/nithish-1622/nithish-1622/profile-3d-contrib/profile-night-green.svg" />
 </p>
 
 ---
