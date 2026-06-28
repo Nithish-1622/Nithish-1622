@@ -46,11 +46,11 @@
       <br/>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/azure-icon.svg" width="65" height="65" alt="Azure" />
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" />
       <br/>Azure
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/gcp-icon.svg" width="65" height="65" alt="GCP" />
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" />
       <br/>GCP
     </td>
     <td align="center" width="96">
@@ -116,15 +116,15 @@
       <br/>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="React Native" />
-      <br/>React Native
+      <img src="https://techstack-generator.vercel.app/vuejs-icon.svg" width="65" height="65" />
+      <br/>Vue.js
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="65" height="65" alt="Flutter" />
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" />
       <br/>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="65" height="65" alt="Kubernetes" />
+     <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" />
       <br/>Kubernetes
     </td>
   </tr>
