@@ -38,6 +38,22 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+      <br/>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" />
+      <br/>Spring Boot
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" />
+      <br/>Azure
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" />
+      <br/>GCP
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
       <br/>JavaScript
     </td>
@@ -49,6 +65,9 @@
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
       <br/>React
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" />
       <br/>Next.js
@@ -65,8 +84,6 @@
       <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" />
       <br/>NestJS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
       <br/>MySQL
@@ -79,6 +96,9 @@
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" />
       <br/>PostgreSQL
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
       <br/>AWS
