@@ -8,7 +8,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <table align="center">
   <tr>
@@ -116,7 +116,7 @@
       <br/>Git
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/vuejs-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" />
       <br/>Vue.js
     </td>
     <td align="center" width="96">
