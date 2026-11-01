@@ -70,6 +70,13 @@
 </p>
 ---
 
+## 🟢 Animated Contribution Graph
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
+---
+
 ## Contribution Snake
 
 <p align="center">
