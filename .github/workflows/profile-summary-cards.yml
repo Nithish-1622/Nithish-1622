@@ -29,5 +29,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: YOUR_USERNAME
+          USERNAME: Nithish-1622
           THEME: github_dark
