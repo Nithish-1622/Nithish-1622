@@ -1,4 +1,4 @@
-<!-- README.md for NithishS365 -->
+ <!-- README.md for Nithish-1622 -->
 
 <h1 align="center">Hey there 👋, I'm Nithish</h1>
 
@@ -21,6 +21,33 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nithish-1622&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 📊 GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Profile Details" width="100%" />
+</p>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per Language" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Statistics" />
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+    </td>
+  </tr>
+</table>
 
 ---
 
