@@ -55,8 +55,8 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/activity-assets/activity-30d.svg"
-    alt="GitHub Activity Graph - 30 Days"
+    src="https://raw.githubusercontent.com/Nithish-1622/Nithish-1622/activity-assets/activity-90d.svg"
+    alt="GitHub Activity Graph - 90 Days"
     width="100%"
   />
 </p>
