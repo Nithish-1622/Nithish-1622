@@ -16,6 +16,15 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync branch with latest remote
+        run: |
+          git fetch --all --prune
+          git checkout -B "${{ github.ref_name }}" "origin/${{ github.ref_name }}"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: Generate Animated Activity Graph
         uses: alexcerezo/activity-graph@v1
